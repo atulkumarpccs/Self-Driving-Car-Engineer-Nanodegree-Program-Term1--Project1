@@ -17,3 +17,8 @@ Finding Lane Lines on the Road. The first  assignement project  in Term 1 for su
  1.Set up `Starter Kit Installation`
    -setup by using Anaconda
    <https://github.com/udacity/CarND-Term1-Starter-Kit/blob/master/README.md>
+   
+ ### Known Issues :
+ 1.Set up is no done for Linux environment
+ 2.Set up is not done for Docker on AWS.
+ 
