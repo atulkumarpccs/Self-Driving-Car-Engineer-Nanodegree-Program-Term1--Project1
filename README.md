@@ -1,6 +1,8 @@
 # Project 1 :
-Finding Lane Lines on the Road. The first  assignement project  in Term 1 for submission. 
 [![Udacity - Self-Driving Car NanoDegree](https://s3.amazonaws.com/udacity-sdc/github/shield-carnd.svg)](http://www.udacity.com/drive)
+
+Finding Lane Lines on the Road. The first  assignement project  in Term 1 for submission. 
+
 
 [Udacity Self-Driving Car Engineer Nanodegree](https://www.udacity.com/course/self-driving-car-engineer-nanodegree--nd013)
 
