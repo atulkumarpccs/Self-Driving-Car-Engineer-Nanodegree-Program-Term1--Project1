@@ -10,3 +10,5 @@ Finding Lane Lines on the Road
  
  ### Setup Environmet :
  1.Set up `Starter Kit Installation`
+   -setup by using Anaconda
+   <https://github.com/udacity/CarND-Term1-Starter-Kit/blob/master/README.md>
