@@ -21,7 +21,9 @@ The first  assignement project  in Term 1 for submission.
    
  ### Known Issues :
  
- 1.Set up is no done for Linux environment
+ 1.Set up is not done for Linux environment
  
  2.Set up is not done for Docker on AWS.
+ 
+ 3.Some of package for python are installed manully 
  
