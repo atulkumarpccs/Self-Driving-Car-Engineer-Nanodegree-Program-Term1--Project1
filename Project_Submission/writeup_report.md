@@ -149,4 +149,4 @@ Finally weighted_img function to combine the line drawn and actual image.
 
 1. As per the current algorithm, it only detects straight lines. I need to consider poly fitting lane lines rather than fitting to straight lines.
 
-2. It is ideal case where lane & line is there on the road but in real line can be missing on the road also so use of other alternative mechanism as well.(Like decided by radar, camaera data).
+2. It is ideal case where lane & line is there on the road but in real line can be missing on the road also so use of other alternative mechanism as well.(Like decided by radar, camera data).
