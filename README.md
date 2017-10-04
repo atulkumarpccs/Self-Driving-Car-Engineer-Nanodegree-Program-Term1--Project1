@@ -6,7 +6,7 @@ The first  assignement project  in Term 1 for submission.
 
 [Udacity Self-Driving Car Engineer Nanodegree](https://www.udacity.com/course/self-driving-car-engineer-nanodegree--nd013)
 
-## TO DO :
+## Submission Requirment :
  To complete the project, two files will be submitted: 
  A file containing project code and a file containing a brief write up explaining your solution. We have included template files to be used both for the `code` and the `writeup`.The code file is called `P1.ipynb` and the writeup template is `writeup_template.md`
  
@@ -19,17 +19,19 @@ The first  assignement project  in Term 1 for submission.
    setup by using Anaconda
    <https://github.com/udacity/CarND-Term1-Starter-Kit/blob/master/README.md>
    
+ 2.Please take help if any pakage is missing from environment file in project directory on windows 10. 
+   
  ### Build Steps :
  
- 1.After doing `environsetup` , please go to anoconda commadn command promt.
+ 1.After doing `environsetup` , please go to anoconda command promt.
  
- 2.setup the envioronment run command >>``activate carnd-term1``
+ 2.Setup the envioronment run command >>``activate carnd-term1``
  
- 3.clone the project from github >>``git clone https://github.com/atulkumarpccs/Project1.git `` 
+ 3.Clone the project from github >>``git clone https://github.com/atulkumarpccs/Project1.git `` 
  
- 4.Go to the submission folder/directory >>cd /Project1/
+ 4.Go to the submission folder/directory >>cd /Project1/Project_Submission/
   
- 5.run the command >>``jupyter notebook P1.ipynb``
+ 5.Run the command from anaconda command promt>>``jupyter notebook P1.ipynb``
    
    
  ### Known Issues :
