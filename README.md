@@ -25,9 +25,9 @@ The first  assignement project  in Term 1 for submission.
  
  2.setup the envioronment run command >>``activate carnd-term1``
  
- 3.clone the project from github >>``git clone `` 
+ 3.clone the project from github >>``git clone https://github.com/atulkumarpccs/Project1.git `` 
  
- 4.Go to the submission folder/directory 
+ 4.Go to the submission folder/directory >>cd /Project1/
   
  5.run the command >>``jupyter notebook P1.ipynb``
    
