@@ -140,11 +140,13 @@ Finally weighted_img function to combine the line drawn and actual image.
 
 ### 2. Identify potential shortcomings with your current pipeline
 
-1. One potettial shortcoming is it only detects the straight lane lines. It failure to perform well with curved lines.
+1. One potential shortcoming is it only detects the straight lane lines(Road is curved as well). It failure to perform well with curved lines.
 
 2. Another potential issue is that it won't work for steep roads scenario because the region of interest mask is assumed from the center of the image.
 
 
 ### 3. Suggest possible improvements to your pipeline
 
-1. As per the current algorithm, it only detects straight lines. I need to consider poly fitting lane lines rather than fitting to straight lines
+1. As per the current algorithm, it only detects straight lines. I need to consider poly fitting lane lines rather than fitting to straight lines.
+
+2. It is ideal case where lane & line is there on the road but in real line can be missing on the road also so use of other alternative mechanism as well.(Like decided by radar, camaera data).
