@@ -19,7 +19,7 @@ The first  assignement project  in Term 1 for submission.
    setup by using Anaconda
    <https://github.com/udacity/CarND-Term1-Starter-Kit/blob/master/README.md>
    
- 2.Please take help if any pakage is missing from environment file in project directory on windows 10. 
+ 2.Please refer file ``environment.yaml`` if any pakage is missing from environment file in project directory on windows 10. 
    
  ### Build Steps :
  
