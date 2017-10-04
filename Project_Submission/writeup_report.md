@@ -135,7 +135,7 @@ def find_line_points(line, actual_img):
 
 Finally weighted_img function to combine the line drawn and actual image.
 
-<img src="other_images/final_image.png" width="480" alt="final image" />
+<img src="Other_Images/final_image.png" width="480" alt="final image" />
 
 
 ### 2. Identify potential shortcomings with your current pipeline
