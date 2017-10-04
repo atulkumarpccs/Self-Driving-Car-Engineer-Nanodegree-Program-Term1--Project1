@@ -60,15 +60,15 @@ Firstly, image converted to grayscale, then apply gaussian_blur function for gau
 
 Grayscale:
 
-<img src="other_images/gray_scale.png" width="480" alt="grayscale image" />
+<img src="Other_Images/gray_scale.png" width="480" alt="grayscale image" />
 
 Canny:
 
-<img src="other_images/canny_image.png" width="480" alt="canny image" />
+<img src="Other_Images/canny_image.png" width="480" alt="canny image" />
 
 Region of Interest:
 
-<img src="other_images/region_of_interest.png" width="480" alt="region of interest image" />
+<img src="Other_Images/region_of_interest.png" width="480" alt="region of interest image" />
 
 
 Next step is to input the canny image to hough_lines method and output will be list of line segments.
