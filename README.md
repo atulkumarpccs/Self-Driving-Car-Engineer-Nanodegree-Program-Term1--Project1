@@ -19,11 +19,24 @@ The first  assignement project  in Term 1 for submission.
    setup by using Anaconda
    <https://github.com/udacity/CarND-Term1-Starter-Kit/blob/master/README.md>
    
+ ### Build Steps :
+ 
+ 1.After doing `environsetup` , please go to anoconda commadn command promt.
+ 
+ 2.setup the envioronment run command >>``activate carnd-term1``
+ 
+ 3.clone the project from github >>``git clone `` 
+ 
+ 4.Go to the submission folder/directory 
+  
+ 5.run the command >>``jupyter notebook P1.ipynb``
+   
+   
  ### Known Issues :
  
  1.Set up is not done for Linux environment
  
  2.Set up is not done for Docker on AWS.
  
- 3.Some of package for python are installed manully 
+ 3.Some of package for python are installed manually 
  
